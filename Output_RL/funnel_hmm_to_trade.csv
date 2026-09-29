@@ -1,0 +1,9 @@
+stage,bars,hmm_hit_rate,mean_signal_return_bps
+all test bars (30-min slots),704,0.14696969696969697,0.03466666666666665
+bar and next bar actually traded,595,0.15966386554621848,0.03448739495798318
+HMM gave a direction (not sideways),194,0.4896907216494845,0.10577319587628864
+direction persisted >= 4 bars,82,0.4878048780487805,-0.06512195121951231
+entry slot historically positive (eligible),18,0.4444444444444444,0.6788888888888889
+blocked: time-slot cooldown,3,,
+blocked: RL veto,3,,
+trade entered,12,0.5,0.8916666666666666

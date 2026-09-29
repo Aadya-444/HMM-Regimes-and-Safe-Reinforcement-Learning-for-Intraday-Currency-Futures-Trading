@@ -1,0 +1,4 @@
+,pred_bearish,pred_sideways,pred_bullish
+actual_bearish,1,27,16
+actual_sideways,0,41,12
+actual_bullish,3,39,26

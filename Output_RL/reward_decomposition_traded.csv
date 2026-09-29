@@ -1,0 +1,7 @@
+component,rupees
+gross futures move,1427.3992299999998
+hedge payout,693.5515500000004
+costs (execution + hedge premium),-1404.453653
+net P&L,716.4971270000001
+risk penalty (0.2 x max adverse),-405.97842799999995
+reward (utility),310.51869899999997

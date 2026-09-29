@@ -1,0 +1,4 @@
+subset,bars,EMA10_accuracy,EMA21_accuracy
+all test bars,165,0.4121212121212121,0.34545454545454546
+bars where both agree,127,0.3858267716535433,0.3858267716535433
+bars where they disagree,38,0.5,0.21052631578947367

@@ -1,0 +1,2 @@
+policy,sharpe,ci_low,ci_median,ci_high,share_bootstrap_below_zero,sessions,trades
+2M + cooldown + safe fitted-Q RL,1.9346694835944551,-2.5670340018380253,2.171561337484273,6.735972005457381,0.197,44,12
